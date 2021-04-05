@@ -42,12 +42,12 @@ function restOfFiles() {
         let file = files[i];
 
         try {
-            var data = fs.readFileSync(file, 'utf8');
-            let array = data.split('\r\n');
+            const data = fs.readFileSync(file, 'utf8');
+            const array = data.split('\r\n');
 
-            let filename = path.basename(file);
+            const filename = path.basename(file);
 
-            let newArray = array.map((ele, i, array) => {
+            const newArray = array.map((ele, i, array) => {
                 return `${ele},"${filename}"`;
             });
 
