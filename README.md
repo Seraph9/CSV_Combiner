@@ -1,6 +1,6 @@
 # SOME IMPORTANT NOTES BEFORE RUNNING MY CODE:
 
-* Coding Challenge Instructions: Please read `INSTRUCTIONS.md` file: `https://github.com/Seraph9/CSV_Combiner/blob/main/INSTRUCTIONS.md`.
+* Coding Challenge Instructions: Please read `INSTRUCTIONS.md` file: `https://github.com/Seraph9/CSV_Combiner/blob/main/INSTRUCTIONS.md` or `https://github.com/AgencyPMG/ProgrammingChallenges/tree/master/csv-combiner`.
 * This is the coding assessment/test/challenge for the (remote) entry-level Junior Backend/Frontend Developer position with PMG: `https://www.pmg.com/`
 
 * I used `Node.js` (JavaScript) to complete the coding assessment and pass the coding test.
